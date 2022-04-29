@@ -1,2 +1,16 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using AlgoritmProblems;
+using System;
+
+
+namespace AlgoritmProblems
+{
+    public class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Welcome To Algorithmic Programs");
+
+            BinarySearch.Search();
+        }
+    }
+}
