@@ -4,13 +4,13 @@ using System;
 
 namespace AlgoritmProblems
 {
-    public class Program
+     public class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome To Algorithmic Programs");
 
-            PrimeNumber.Prime();
+            Anagram.FindAnagram();
         }
     }
 }
