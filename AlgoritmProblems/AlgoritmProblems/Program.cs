@@ -10,7 +10,7 @@ namespace AlgoritmProblems
         {
             Console.WriteLine("Welcome To Algorithmic Programs");
 
-            BinarySearch.Search();
+            BubbleSort.Bubble();
         }
     }
 }
